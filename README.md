@@ -1,24 +1,63 @@
-# Me+Me
-🔭 I’m currently working on Machine Learning Applications<br>👯 I’m looking to collaborate on Web/App Dev or ML Projects<br>🌱 I’m currently learning Unsupervised Learning
+<h1 align="center">Hi, I'm Aymaan 👋</h1>
 
+<p align="center">
+  <b>Business & product-minded builder</b> · IIT Bombay '26 (Energy Science + Data Science minor)<br/>
+  Senior Associate, Business Management @ <b>Meesho</b> — working on UGC discovery, collections & churn
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymaanshahzad23/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aymaanshahzad23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aymaanshahzad23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymaanshahzad23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aymaanshahzad23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aymaanshahzad23/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aymaanshahzad23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 About
+
+I sit where data, product and business meet — I like turning messy user behaviour into decisions, and building the tools that make those decisions faster.
+
+- 📈 **Now:** reducing churn and improving content discovery for Meesho's user-generated catalogue
+- 🛠️ **Built:** co-founded **Voom Cabs**, a student-run mobility startup
+- 💼 **Before:** strategy & analytics internships at MCaffeine (CEO's Office), Frost & Sullivan (Growth Advisory) and Evam Finance
+- 🤝 **Open to:** collaborating on ML-for-business, analytics tooling, or web/app side projects
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**PROJECT_1**](https://github.com/aymaanshahzad23/REPO_1) | One line on the problem and the result (e.g. "Predicts X with Y% accuracy") | Python · scikit-learn |
+| [**PROJECT_2**](https://github.com/aymaanshahzad23/REPO_2) | One line — what a user can do with it | React · Firebase |
+| [**PROJECT_3**](https://github.com/aymaanshahzad23/REPO_3) | One line — energy / data science work fits well here | Python · PyTorch |
+| [**PROJECT_4**](https://github.com/aymaanshahzad23/REPO_4) | One line | Node.js · MongoDB |
+
+> Tip: pin these same repos on your profile so the table and the pinned cards reinforce each other.
+
+---
+
+### 🧰 Toolkit
+
+**Data & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,mysql,mongodb&theme=dark" alt="Data & ML"/>
+<br/><sub>Also: Pandas, NumPy, Matplotlib, SQL for product analytics</sub>
+
+**Web & App**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,vite,firebase,netlify&theme=dark" alt="Web & App"/>
+
+**Other**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,latex,postman&theme=dark" alt="Other"/>
+
+---
+
+### 📚 Currently exploring
+
+Unsupervised learning for user segmentation · experimentation & causal inference · LLM-powered analytics workflows
+
+---
+
+<p align="center"><sub>Always happy to talk product, data, or startups — reach out on LinkedIn.</sub></p>
